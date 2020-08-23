@@ -1,5 +1,5 @@
 import React from 'react';
-import {reducer, initialState} from './REDUCER/Reducers'
+import {reducer, initialState} from './REDUCER/Reducers/Reducer'
 import redux from 'redux';
 import ReactDOM from 'react-dom';
 import App from './REDUCER/App';
